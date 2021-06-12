@@ -13,9 +13,9 @@ https://chromedriver.chromium.org/downloads
 
 
 # How to Run
-Download the AutomateBrowser.py file to your system.
-Change the REPO_PATH variable to current file location.
-Copy chromedriver that was download earlier to this location.
-Recommended to run using command line.
+1. Download the AutomateBrowser.py file to your system.
+2. Change the REPO_PATH variable to current file location.
+3. Copy chromedriver that was download earlier to this location.
+4. Recommended to run using command line.
 "python AutomationBrowser.py"
 
